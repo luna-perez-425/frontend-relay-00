@@ -82,3 +82,4 @@ namespace MiniSoftware.Extensions
         }
 	}
 }
+// 4f12d8
