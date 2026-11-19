@@ -97,3 +97,4 @@ namespace MiniSoftware
         internal Int64Value Cy => Height * 9525;
     }
 }
+// 568c81
